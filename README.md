@@ -1,5 +1,6 @@
 # What
 
+Package [socklog](http://smarden.org/socklog/index.html) for deployment.
 
 # How
 
